@@ -9,6 +9,7 @@ The pipeline processes raw sales data, cleans and transforms it, and produces an
 
 ## 📂 Project Structure
 
+
 sales-etl-pandas/
 ├── etl-project/
 │   ├── etl_sales_pipeline.ipynb
@@ -21,6 +22,7 @@ sales-etl-pandas/
 │       └── processed/
 │           └── sales_analytics.csv
 └── README.md
+
 
 ---
 
