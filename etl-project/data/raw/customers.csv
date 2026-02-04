@@ -1,0 +1,6 @@
+﻿customer_id;customer_name;country;age;gender;created_at
+C001;Clinica San Jose;Colombia;45;F;15/01/23
+C002;Farmacia Vida;Chile;38;M;10/02/23
+C003;Hospital Central;Mexico;;F;5/03/23
+C004;Farmacia Salud Plus;Colombia;29;M;20/03/23
+C005;Centro Medico Norte;Peru;52;F;1/04/23

@@ -1,0 +1,6 @@
+﻿sale_id;sale_date;customer_id;product_id;quantity;total_amount
+S001;1/05/23;C001;P001;10;25
+S002;2/05/23;C002;P002;5;15
+S003;3/05/23;C003;P003;3;16.5
+S004;4/05/23;C004;P002;2;6
+S005;5/05/23;C999;P001;1;2.5

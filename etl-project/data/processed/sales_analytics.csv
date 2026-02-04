@@ -1,0 +1,5 @@
+sale_id,sale_date,customer_id,product_id,quantity,total_amount,customer_name,country,age,gender,created_at,product_name,category,price,calculated_total,total_diff
+S001,2023-05-01,C001,P001,10,25.0,Clinica San Jose,Colombia,45.0,F,2023-01-15,Paracetamol,Analgesicos,2.5,25.0,0.0
+S002,2023-05-02,C002,P002,5,15.0,Farmacia Vida,Chile,38.0,M,2023-02-10,Ibuprofeno,Analgesicos,3.0,15.0,0.0
+S003,2023-05-03,C003,P003,3,16.5,Hospital Central,Mexico,41.5,F,2023-03-05,Vitamica C,Suplementos,5.5,16.5,0.0
+S004,2023-05-04,C004,P002,2,6.0,Farmacia Salud Plus,Colombia,29.0,M,2023-03-20,Ibuprofeno,Analgesicos,3.0,6.0,0.0
